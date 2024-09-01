@@ -1,10 +1,6 @@
 # AI Narrator. 
 
 
-
-## Want to make your own AI app?
-Check out [Replicate](https://replicate.com). We make it easy to run machine learning models with an API.
-
 ## Setup
 
 Clone this repo, and setup and activate a virtualenv:
@@ -18,7 +14,7 @@ source venv/bin/activate
 Then, install the dependencies:
 `pip install -r requirements.txt`
 
-Make a [Replicate](https://replicate.com), [OpenAI](https://beta.openai.com/), and [ElevenLabs](https://elevenlabs.io) account and set your tokens:
+Make a [OpenAI](https://beta.openai.com/), and [ElevenLabs](https://elevenlabs.io) account and set your tokens:
 
 ```
 export OPENAI_API_KEY=<token>
